@@ -56,7 +56,7 @@ No, I was unable to get hit the target accuracy of 75%. Using the hypertuner, I 
 
 ![Hypertuning](https://github.com/Nveatch/Neural_Network_Charity_Analysis/blob/main/Resources/hyper_tuning.png)
 
-![Final Result](https://github.com/Nveatch/Neural_Network_Charity_Analysis/blob/main/Resources/acccuracy.png)
+![Final Result](https://github.com/Nveatch/Neural_Network_Charity_Analysis/blob/main/Resources/accuracy.png)
 
 
 **What steps did you take to try and increase model performance?**
